@@ -1,0 +1,19 @@
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Индивидуальное задание\Matrice\Matrice\obj\Debug\Matrix.csprojAssemblyReference.cache
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Индивидуальное задание\Matrice\Matrice\obj\Debug\Matrice.Form1.resources
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Индивидуальное задание\Matrice\Matrice\obj\Debug\Matrix.Properties.Resources.resources
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Индивидуальное задание\Matrice\Matrice\obj\Debug\Matrix.csproj.GenerateResource.cache
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Индивидуальное задание\Matrice\Matrice\bin\Debug\Matrix.exe.config
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Индивидуальное задание\Matrice\Matrice\bin\Debug\Matrix.exe
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Индивидуальное задание\Matrice\Matrice\bin\Debug\Matrix.pdb
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Индивидуальное задание\Matrice\Matrice\obj\Debug\Matrix.exe
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Индивидуальное задание\Matrice\Matrice\obj\Debug\Matrix.pdb
+C:\Users\Alexander\Downloads\Matrix\Matrix\Matrice\obj\Debug\Matrix.csprojAssemblyReference.cache
+C:\Users\Alexander\Downloads\Matrix\Matrix\Matrice\obj\Debug\Matrice.Form1.resources
+C:\Users\Alexander\Downloads\Matrix\Matrix\Matrice\obj\Debug\Matrix.Properties.Resources.resources
+C:\Users\Alexander\Downloads\Matrix\Matrix\Matrice\obj\Debug\Matrix.csproj.GenerateResource.cache
+C:\Users\Alexander\Downloads\Matrix\Matrix\Matrice\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Downloads\Matrix\Matrix\Matrice\obj\Debug\Matrix.exe
+C:\Users\Alexander\Downloads\Matrix\Matrix\Matrice\obj\Debug\Matrix.pdb
+C:\Users\Alexander\Downloads\Matrix\Matrix\Matrice\bin\Debug\Matrix.exe.config
+C:\Users\Alexander\Downloads\Matrix\Matrix\Matrice\bin\Debug\Matrix.exe
+C:\Users\Alexander\Downloads\Matrix\Matrix\Matrice\bin\Debug\Matrix.pdb
